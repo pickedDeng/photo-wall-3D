@@ -1,5 +1,9 @@
 # photo-wall-rotation
 
+## 基于CSS3D旋转照片墙
++ 要求：展示图片不得少于48张，否则会显示重复；
++ 套用：简单的更换图片地址即可。
+
 ## Project setup
 ```
 npm install
