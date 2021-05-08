@@ -5,7 +5,7 @@
 + 套用：简单的更换图片地址即可。
 ## demo地址
 ```
-http://49.234.184.136:8081/#/
+http://docs.fst1994.com/wm/wall/index.html#/
 ```
 ## Project setup
 ```
